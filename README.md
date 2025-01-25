@@ -1,8 +1,8 @@
 # OSProject Running Containers for Application Development
 
-Group Name: __Fill your team name__. 
+Group Name: lilnas. 
 
-Section: __Fill your class section__. 
+Section: 7. 
 
 Team Mates:
 1. __Fill name__ and __matric no__
