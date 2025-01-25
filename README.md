@@ -24,7 +24,7 @@ Team Mates:
 
 ***Questions:***
 
-1. What is the link of the fork OSProject in your repository. https://github.com/gumdumballs/OSProject/edit/main/README.md 
+1. What is the link of the fork OSProject in your repository. https://github.com/gumdumballs/OSProject/tree/main 
 2. How many files and folders are in this repository. 1 folder with 6 pictures and 1 file.
 
 
