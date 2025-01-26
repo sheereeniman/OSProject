@@ -2,7 +2,7 @@
 
 Group Name: __Fill your team name__. 
 
-Section: __Fill your class section__. 
+Section: __7__. 
 
 Team Mates:
 1. __Fill name__ and __matric no__
